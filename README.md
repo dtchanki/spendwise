@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-# spendwise
+spendwise
 Application de gestion de finance
-=======
